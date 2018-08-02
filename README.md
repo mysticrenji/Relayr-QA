@@ -11,7 +11,7 @@ https://www.google.de )? Choose your favourite website which has search function
 The following cases have been automated for Google Search:
 
 1. Google Search using single keyword and verifying the Search results.
-2. Google Search using invalid keywords for No Search Results and verifying that there should not be Search result.
+2. Google Search using invalid keywords for No Search Results and verifying that there should not be any Search result.
 3. Google Search for "I'm Feeling Lucky" using a keyword to bypass Search Results and verifying the correct URL.
 
 Pre-requisite to run the tests :
