@@ -1,0 +1,34 @@
+1. Where would you start? What would be your first steps?
+Answer:  The below stated are the fisrt few steps which I would take to start with:
+	- Perform resource planning and invovle the team from staring of the project. This way the testers will be more familiar with the application, as they would be           more involved with the evolution of the product in earlier phases.
+	- Identify the software testing methodology(like Waterfall, Interative delopment, Agile etc.) to be used.
+	- Requirements gathering and porper understanding of the requirements.
+	- Agile: Perform Test planning, sprint planning, user stories and acceptance test plan.
+	
+2. Which process would you establish around testing new functionality ? How would you want the features to be tested?
+Answer:	- I would recommend Agile test methodology for testing new functionality. As Agile methods are tested in a dynamic environment and prove to be very flexible by           adapting to the change happening in the business.
+	-  I would Ensure the test coverage of Manual Testing for all the new features using Requirement Traceability Matrix and plan automated testing for Regression.
+
+3. which tools would you suggest using to help your team with daily work?
+Answer: - I would suggest "Jira" and "Confluence" tool for tracking issues, user stories and ducument reference.
+        - To track the progress we can use a scrum board in the Scrum meetings.	
+	
+	
+4. If you would do a test automation which techniques or best practices would you use the application?
+Answer	- I would suggest to use "Selenium" for Web and "Postman" tool for rest API testing. Both are open source and easy to use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
